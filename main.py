@@ -16,7 +16,7 @@ imgTest = cv2.cvtColor(imgTest, cv2.COLOR_BGR2RGB)
 
 print(mylist, classNames,'Encodings Compeleted',Attendance())
 print(faceDis)
-cv2.imshow('webcam_wr_warirors',img)
+cv2.imshow('webcam_1',img)
 cv2.waitKey(1)
 
 faceLoc = face_recognition.face_locations(imgEl_name)[0]
