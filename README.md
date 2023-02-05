@@ -1,1 +1,1 @@
-# Face_recognition
+# Face_recognition_static_approach_opencv
